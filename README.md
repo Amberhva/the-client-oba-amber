@@ -23,14 +23,14 @@ https://amberhva.github.io/the-client-oba-amber/
 ## Kenmerken
 Een aantal technieken wat ik heb gebruikt is een HTML structuur aan te houden. Ik heb alle delen van de website opgesplitst in of headers, nav's of sections. Ik heb de nav in een header gestopt omdat het helemaal bovenaan in de website staat. Hieronder staan een aantal voorbeelden:
 
+### HTML
 ![code1](https://user-images.githubusercontent.com/112861033/195675237-25442e95-d426-4244-a1b8-78d19157d081.jpg)
 ![code2](https://user-images.githubusercontent.com/112861033/195676156-07014337-3f95-41e4-a21c-9faea64abee8.jpg)
 
-
-
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-
+### JavaScript
+Hier heb ik een stukje code van de Javascript, dit is voor het 'sliden' van de boeken. 
+Ik vind JavaScript nog erg moeilijk, dus ik weet niet precies hoe ik het voor elkaar heb gekregen, maar het werkt.
+![javascript1](https://user-images.githubusercontent.com/112861033/195677680-5ac257b7-539f-420f-bea6-5e59a2242b7b.jpg)
 
 ## Bronnen
 
