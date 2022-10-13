@@ -27,9 +27,16 @@ Een aantal technieken wat ik heb gebruikt is een HTML structuur aan te houden. I
 ![code1](https://user-images.githubusercontent.com/112861033/195675237-25442e95-d426-4244-a1b8-78d19157d081.jpg)
 ![code2](https://user-images.githubusercontent.com/112861033/195676156-07014337-3f95-41e4-a21c-9faea64abee8.jpg)
 
+### CSS
+Tijdens het werken heb ik gebruik gemaakt van variables in de css. Ik vond dit een fijne manier van werken omdat ik niet de hele tijd de hex colours hoefde te gebruiken. Hieronder heb ik ook een stukje code geplaatst van de header, waar mijn navigation in zit.
+
+![css1](https://user-images.githubusercontent.com/112861033/195682090-484caee0-9ed3-4e8d-89d3-013cd145f59c.jpg)
+![css2](https://user-images.githubusercontent.com/112861033/195687227-cfe7601f-8ca3-413f-8d14-f763c2f6a4af.jpg)
+
 ### JavaScript
 Hier heb ik een stukje code van de Javascript, dit is voor het 'sliden' van de boeken. 
 Ik vind JavaScript nog erg moeilijk, dus ik weet niet precies hoe ik het voor elkaar heb gekregen, maar het werkt.
+
 ![javascript1](https://user-images.githubusercontent.com/112861033/195677680-5ac257b7-539f-420f-bea6-5e59a2242b7b.jpg)
 
 ## Bronnen
