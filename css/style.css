@@ -414,13 +414,13 @@ section{
     line-height: 5rem;
     font-size: 2rem;
     color:#fff;
-    background:var(--red);
+    background:var(--black);
     margin:0 .3rem;
-    border-radius: 50%; 
+    border-radius: 5%; 
 }
 
 .footer .share a:hover{
-    background:var(--black);
+    background:var(--red);
 }
 
 .footer {
