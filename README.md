@@ -1,7 +1,5 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Mijn oba
+Ontwerp en maak een component/website voor een bedrijf en presenteer het resultaat.
 
 ## Inhoudsopgave
 
@@ -11,9 +9,16 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+User story:
+> Als oba-lid wil ik op de website persoonlijke boekentips krijgen, zodat ik gestimuleerd wordt meer te lezen.
+
+Zoals je ziet op de afbeelding, heb je bovenaan een sticky navigation. Zo kan elke gebruiker nog steeds op de pagina navigeren zonder dat hij/zij helemaal naar boven hoeft te scrollen. Dan heb je uiteindelijk de boekentips. Je kan hierdoor navigeren door op de linker of rechter pijl te kliken. Je kan er ook voor kiezen om de boekentips die je krijgt aanbevolen, toe te voegen aan je persoonlijke leeslijst. Zo heb je een overzicht van alle boeken die je hebt opgeslagen, en kan je de boeken lenen bij je volgende bezoek bij de oba. 
+
+Hieronder heb ik ook een foto geplaatst van hoe de website eruit ziet wanneer het word bezocht op de mobiel. Klik op de link om de website te bezoeken:
+https://amberhva.github.io/the-client-oba-amber/
+
+![boekentips](https://user-images.githubusercontent.com/112861033/195666128-cb4fe13c-f935-4171-8d29-0acb5a9a5fa2.jpg)
+![responsive-oba (2)](https://user-images.githubusercontent.com/112861033/195668648-0155c96a-8414-408f-9aea-c1e8ae7ff069.png)
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
