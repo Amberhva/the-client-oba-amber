@@ -18,9 +18,16 @@ Hieronder heb ik ook een foto geplaatst van hoe de website eruit ziet wanneer he
 https://amberhva.github.io/the-client-oba-amber/
 
 ![boekentips](https://user-images.githubusercontent.com/112861033/195666128-cb4fe13c-f935-4171-8d29-0acb5a9a5fa2.jpg)
-![responsive-oba (2)](https://user-images.githubusercontent.com/112861033/195668648-0155c96a-8414-408f-9aea-c1e8ae7ff069.png)
+![responsive-oba (2)](https://user-images.githubusercontent.com/112861033/195671724-c123c54f-2385-455e-bf5c-fd35beeccc04.png)
 
 ## Kenmerken
+Een aantal technieken wat ik heb gebruikt is een HTML structuur aan te houden. Ik heb alle delen van de website opgesplitst in of headers, nav's of sections. Ik heb de nav in een header gestopt omdat het helemaal bovenaan in de website staat. Hieronder staan een aantal voorbeelden:
+
+![code1](https://user-images.githubusercontent.com/112861033/195675237-25442e95-d426-4244-a1b8-78d19157d081.jpg)
+![code2](https://user-images.githubusercontent.com/112861033/195676156-07014337-3f95-41e4-a21c-9faea64abee8.jpg)
+
+
+
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 
