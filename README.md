@@ -27,7 +27,7 @@ Een aantal technieken wat ik heb gebruikt is een HTML structuur aan te houden. I
 ![code1](https://user-images.githubusercontent.com/112861033/195675237-25442e95-d426-4244-a1b8-78d19157d081.jpg)
 ![code2](https://user-images.githubusercontent.com/112861033/195676156-07014337-3f95-41e4-a21c-9faea64abee8.jpg)
 
-```
+```html
 <body>
     
 <!-- header section starts  -->
