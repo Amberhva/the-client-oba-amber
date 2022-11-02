@@ -27,6 +27,32 @@ Een aantal technieken wat ik heb gebruikt is een HTML structuur aan te houden. I
 ![code1](https://user-images.githubusercontent.com/112861033/195675237-25442e95-d426-4244-a1b8-78d19157d081.jpg)
 ![code2](https://user-images.githubusercontent.com/112861033/195676156-07014337-3f95-41e4-a21c-9faea64abee8.jpg)
 
+```
+<body>
+    
+<!-- header section starts  -->
+
+<header class="header">
+
+    <div class="header-1">
+
+        <a href="#" class="logo"><img src="./image/oba.png" alt="Oba logo" width="100px"></a>
+
+        <form action="" class="search-form">
+            <input type="search" name="" placeholder="Zoek..." id="search-box">
+            <label for="search-box" class="fas fa-search"></label>
+        </form>
+
+        <div class="icons">
+            <div id="search-btn" class="fas fa-search"></div>
+            <div id="login-btn" class="fas fa-user"></div>
+            <!-- <a href="#" title="Mijn profiel" class="fas fa-user"></a> -->
+            <a href="#" title="Log uit" class="fa-solid fa-right-from-bracket"></a>
+        </div>
+
+    </div>
+```
+
 ### CSS
 Tijdens het werken heb ik gebruik gemaakt van variables in de css. Ik vond dit een fijne manier van werken omdat ik niet de hele tijd de hex colours hoefde te gebruiken. Hieronder heb ik ook een stukje code geplaatst van de header, waar mijn navigation in zit.
 
